@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+#root>ul{
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+}
+#root>h2{
+    text-align: center;
+}

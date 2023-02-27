@@ -1,0 +1,16 @@
+.title {
+    max-width: 400px;
+    width: 100%;
+    padding: 5px 10px;
+    background-color: #ffe4c4;
+    color: #b1322f;
+}
+.subtitle {
+    color: #ff9850;
+}
+.text{
+    font-weight: bold;
+}
+ul>li{
+    font-style: italic;
+}
