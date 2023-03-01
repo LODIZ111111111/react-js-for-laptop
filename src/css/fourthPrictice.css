@@ -1,0 +1,23 @@
+.books {
+    display: flex;
+    flex-direction: row;
+}
+
+.books>.book {
+    margin: 0 10px;
+}
+
+.books>.book>img{
+    width: 300px;
+    height: 450px;
+}
+
+.books>.book>p {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.favorite-books{
+    text-align: center;
+}
